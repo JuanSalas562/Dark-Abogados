@@ -11,17 +11,19 @@ const CACHE_INMUTABLE_NAME = "pwa-inmutable-v1";
 const APP_SHELL = [
     "/",
     "index.html",
+    "index2.html",
+    "section1.html",
     "css/style.css",
     "img/favicon.ico",
     "js/app.js",
     "js/sw-utils.js",
     "js/sw-db.js",
     "js/camara-class.js",
-    "img/avatars/Abogado1.jfif",
-    "img/avatars/Abogado2.jfif",
-    "img/avatars/Abogado3.jpg",
-    "img/avatars/Abogado4.jpg",
-    "img/avatars/Abogado5.jpg"
+    "img/avatars/carlos.jpg",
+    "img/avatars/fernanda.jpg",
+    "img/avatars/mario.jpg",
+    "img/avatars/miguel.jpg",
+    "img/avatars/hugo.jpg"
 ];
 
 

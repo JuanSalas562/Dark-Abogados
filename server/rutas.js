@@ -6,17 +6,12 @@ const mensajes = [
     {
         _id : "1",
         user: "mario",
-        mensaje : "mensaje numero uno"
+        mensaje : "Hola soy el abogado mario!"
     },
     {
         _id : "2",
-        user: "Carlos",
-        mensaje : "mensaje numero dos"
-    },
-    {
-        _id : "3",
-        user: "antonio",
-        mensaje : "mensaje numero tres"
+        user: "carlos",
+        mensaje : "Hola soy el abogado Carlos!"
     }
 ];
 
